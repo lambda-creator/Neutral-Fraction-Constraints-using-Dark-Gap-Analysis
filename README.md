@@ -43,7 +43,7 @@ Simulated Sightlines → Optical Depth → Flux → Dark Gap Identification
 ---
 ## Example Result
 
-![CDF Comparison](results/cdf_example.png)
+![CDF Comparison](results/CDF.png)
 
 ---
 
