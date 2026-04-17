@@ -41,6 +41,11 @@ Simulated Sightlines → Optical Depth → Flux → Dark Gap Identification
 * Independent estimation of **mean free path ($\lambda_{\mathrm{mfp}}$)**
 
 ---
+## Example Result
+
+![CDF Comparison](results/cdf_example.png)
+
+---
 
 ## Repository Structure
 
@@ -122,3 +127,7 @@ This project provides a **modular and reproducible framework** for studying the 
 ## Acknowledgements
 
 This work is based on simulations and methodologies developed in collaboration with ongoing research efforts in Lyman-α forest studies and reionization modeling.
+
+---
+## Author
+Manpreet — MSc Astrophysics, IIT Indore
