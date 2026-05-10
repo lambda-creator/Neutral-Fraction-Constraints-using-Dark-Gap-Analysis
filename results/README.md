@@ -49,11 +49,36 @@ The analysis is performed over the following redshift bins:
   $z = [5.5652, 5.9725]$,
   $z_{\mathrm{center}} = 5.711$, $\Delta z = 0.407$, $N = 245$
 
+
 ---
 
-## Notes
+## Neutral-Fraction-Upper-Bound Constraints
 
+* **Ultra-Late Reionization Model**
+  We present $1\sigma$ upper bound constraints on volume-averaged neutral fraction as:
+
+  $\langle x_{\mathrm{HI}} \rangle \leq 7.9\times10^{-4}$, $1.423\times10^{-2}$, $8.398\times10^{-2}$, at $\bar{z} = 5.177$, $5.455$, $5.769$
+
+* **Late (Fiducial) Reionization Model**
+  We present $1\sigma$ upper bound constraints on volume-averaged neutral fraction as:
+
+  $\langle x_{\mathrm{HI}} \rangle \leq 1.4\times10^{-4}$, $2.76\times10^{-3}$, $4.705\times10^{-2}$, at $\bar{z} = 5.177$, $5.455$, $5.769$ 
+
+* **Early Reionization Model**
+  We present $1\sigma$ upper bound constraints on volume-averaged neutral fraction as:
+
+  $\langle x_{\mathrm{HI}} \rangle \leq 4.0\times10^{-5}$, $9.0\times10^{-5}$, $3.55\times10^{-3}$, at  $\bar{z} = 5.177$, $5.455$, $5.769$ 
+
+
+
+
+
+
+---
+## Notes
+* **$x_{HI}$ upper bound constraints are model-dependent, indicating a strong degeneracy between reionization history and neutral fraction.**
 * The $\chi^2$ values are computed by comparing simulated PDFs with observational constraints (e.g., Zhu et al. 2021).
+* We choose threshold-cutoff (mask)=0.5 in the observational PDF to avoid the double minimum peak shown at threshold-cutoff (mask)=0.1. 
 * File naming conventions encode:
 
   * redshift bin
